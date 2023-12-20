@@ -50,3 +50,5 @@ Credits
     SWAPI: Star Wars API (SWAPI)
 
 Feel free to explore the Star Wars universe with SWAPI App! May the Force be with you!
+
+![Alt text](image.png)
