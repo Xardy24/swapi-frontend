@@ -29,6 +29,15 @@ Features
 
 5. Open your browser and go to http://localhost:3000 to view the app.
 
+## Dockerization
+
+### Build Docker Image
+
+Build the Docker image for your application:
+
+    docker build -t swapi-frontend .
+    docker run -p 3000:3000 swapi-frontend
+
 Usage
 
     Enter the name of a Star Wars character in the provided input field.
@@ -52,3 +61,7 @@ Credits
 Feel free to explore the Star Wars universe with SWAPI App! May the Force be with you!
 
 ![Alt text](image.png)
+
+```
+
+```
